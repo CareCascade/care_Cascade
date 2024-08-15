@@ -2,6 +2,7 @@
 # CareCascade
 
 CareCascade is a revolutionary healthcare platform built on the Internet Computer, integrating blockchain technology, AI, and secure health management. Our platform offers seamless, secure, and accessible health services through innovative health ATMs, making quality healthcare more accessible to everyone.
+![CareCascade](https://github.com/Fatumayattani/care_Cascade/raw/master/src/care_cascade_frontend/assets/caree.PNG)
 
 ## Key Features
 
